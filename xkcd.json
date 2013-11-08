@@ -44,7 +44,7 @@
         {
           "input": "smartphone",
           "inputType": "text",
-          "output": "pokédex",
+          "output": "pok\u00e9dex",
           "caseSensitive": false
         },
         {
